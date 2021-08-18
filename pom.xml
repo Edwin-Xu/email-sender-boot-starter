@@ -10,7 +10,7 @@
     </parent>
     <groupId>cn.edw</groupId>
     <artifactId>email-sender-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>email-sender-boot-starter</name>
     <description>Demo project for Spring Boot</description>
     <properties>
