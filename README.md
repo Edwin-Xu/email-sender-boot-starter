@@ -49,3 +49,8 @@ class EmailSenderServiceTest {
 }
 ```
 A few seconds later, you can receive message in your email accounts.
+
+also, you can customize your configuration in application.properties to overwrite the default configuration.  
+```properties
+email.sender.url=your email sender api
+```
